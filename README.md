@@ -602,6 +602,10 @@ BUT: Additional costs:
 - [self-employment-tax](https://www.npmjs.com/package/self-employment-tax) — npm package for SE tax calculations.
 - [mileage-tracker (Python)](https://github.com/derwentx/mileage-tracker) — GPS-based mileage log generator.
 
+### Web Calculators
+
+- [SmartBizCalc](https://smartbizcalc.com) — Free SE tax calculator (Schedule SE, 15.3% / 92.35% base, deductible half), quarterly estimated tax estimator, 1099 vs. W-2 cost comparison, S-corp savings calculator, and 700+ additional US small-business finance tools. No sign-up required.
+
 ---
 
 ## State-Level Self-Employment Tax
